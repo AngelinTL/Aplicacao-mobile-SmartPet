@@ -21,7 +21,7 @@ class _HomePageContentState extends State<HomePageContent> {
       assetIcon: "assets/icons/pata2.png",
     ),
     HomeListModel(
-      title: "Nao sei oq colocar", 
+      title: "Sobre nos", 
       assetIcon: "assets/icons/pata2.png",
     ),
   ];
